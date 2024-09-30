@@ -1,0 +1,22 @@
+[
+  {
+    "folder": "JAO_NTV_000374_EIW_Tool_Libary/test/gen2",
+    "link_tool": "http://10.192.6.129/EIW/EIW_Tool_2024/MAIN/Pages/Tool/detail.asp?id=5288",
+    "dept": "DR0",
+    "date": "2024/06/06",
+    "email": [
+      "a@gmail.com",
+      "b@gmail.com"
+    ]
+  },
+  {
+    "folder": "JAO_NTV_000374_EIW_Tool_Libary/100/FY24",
+    "link_tool": "http://10.192.6.129/EIW/EIW_Tool_2024/MAIN/Pages/Tool/detail.asp?id=5288",
+    "dept": "DR0",
+    "date": "2024/06/06",
+    "email": [
+      "a@gmail.com",
+      "b@gmail.com"
+    ]
+  }
+]

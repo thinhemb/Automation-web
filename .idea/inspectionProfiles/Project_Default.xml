@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyMandatoryEncodingInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="app.yolo_detector.text_region_detector.pipeline" />
+          <option value="app.pipeline.base_obj.object_models" />
+          <option value="Log" />
+          <option value="app.pipeline.base_obj.pipeline" />
+          <option value="PyQt5.QtCore.pyqtSignal.connect" />
+          <option value="cv2.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
